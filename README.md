@@ -2,8 +2,7 @@
 
 > ⚠️ Unofficial community script. Review carefully before running.
 
-A simple one-command setup for a full Frappe Bench environment on macOS or Ubuntu/Debian.  
-This script installs all required dependencies, configures MariaDB, and gets Bench ready to use.
+A simple one-command setup for a full Frappe Bench environment on macOS or Ubuntu/Debian. This script installs all required dependencies, configures MariaDB, and gets Bench ready to use.
 
 ## Quick Install
 
