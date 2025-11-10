@@ -10,7 +10,7 @@ A simple one-command setup for a full Frappe Bench environment on macOS or Ubunt
 To verify that this works on your system without making changes, use the `--dry-run` flag:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/gurbaxani/frappe-bench-install-script/trunk/install-frappe-bench.sh | bash --dry-run
+curl -fsSL https://raw.githubusercontent.com/gurbaxani/frappe-bench-install-script/trunk/install-frappe-bench.sh | bash -s -- --dry-run
 ````
 
 ### Full Installation
